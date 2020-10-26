@@ -1,0 +1,27 @@
+{
+    "token": "NzYzOTg2MDgwNjg0MDQ4NDI0.X3_rew.nadsTag3PxA-uLeISkfqeHCC4G8",
+    "prefix": ".",
+    "multilang": {
+        "languages": ["English", "Português"]
+    },
+    "bot": {
+        "description": "--> .help",
+        "type": "STREAMING",
+        "url": "https://twitch.tv/DemonV3"
+    },
+    "admins": ["694846151773519944", "744279392267534437"],
+    "channels": {
+        "logs": "769299325833969684",
+        "error": "769298975337087006"
+    },
+    "methods": {
+    	"layer7": ["NFO-KO", "SAS-DEAD", "CHOOPA-CRUSH", "100UP-BYPASS", "HYDRA-FLASH", "WSD", "SmnP", "sSdP", "5M", "GtaFuck", "COD-deAd", "NFO-UDP", "CF_KILL", "NFO-TCP", "OVH-UDP", "OVH-TCP", "L7200k", "L7800k"],
+    	"layer4": ["HOME", "CLDAP", "TCP", "DNS", "STD", "TALK-SHIT", "XOX", "SYN-PAPI", "RIPPED-NIGGA", "BLAZING", "CHARGEN", "GAME-KILLER", "FN-LAG", "FN-FREEZE", "RAINBOW-DROP", "RAINBOW-FREEZE", "HOTSPOT", "NORD-DEAD", "VPN-FUCK", "HTTP-SMACK", "HTTPS-OFF"]
+    },
+    "servers": {
+    	"servidores": ["Simple", "Normal", "Advanced"]
+  	},
+    "blacklist": {
+        "hosts": ["1.2.3.4", "1.3.3.7", "127.0.0.1", "192.168.0.1"]
+    }
+}
