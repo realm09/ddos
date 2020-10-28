@@ -4,35 +4,19 @@
     "attackTime": 3200,
     "attacks": [
       {
-        "target": "68.96.160.121",
+        "target": "76.76.76.8",
         "port": "80",
         "time": "100",
-        "method": "CLDAP",
-        "stamp": 1603738823,
+        "method": "DEDI-RAPEV2",
+        "stamp": 1603852870,
         "stopped": false
       },
       {
-        "target": "1.1.1.1",
+        "target": "185.224.144.224",
         "port": "80",
         "time": "100",
-        "method": "CLDAP",
-        "stamp": 1603740519,
-        "stopped": false
-      },
-      {
-        "target": "68.96.160.121",
-        "port": "80",
-        "time": "100",
-        "method": "HOME",
-        "stamp": 1603742566,
-        "stopped": false
-      },
-      {
-        "target": "68.96.160.121",
-        "port": "80",
-        "time": "100",
-        "method": "HOME",
-        "stamp": 1603742662,
+        "method": "DEDI-RAPEV2",
+        "stamp": 1603852910,
         "stopped": false
       }
     ],

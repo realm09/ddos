@@ -1,5 +1,5 @@
 {
-    "token": "NzYzOTg2MDgwNjg0MDQ4NDI0.X3_rew.nadsTag3PxA-uLeISkfqeHCC4G8",
+    "token": "NzYzOTg2MDgwNjg0MDQ4NDI0.X3_rew.UaLl-lQEzMpw3c6hUBy02Vsjz1Q",
     "prefix": ".",
     "multilang": {
         "languages": ["English", "Português"]
@@ -15,7 +15,7 @@
         "error": "769298975337087006"
     },
     "methods": {
-    	"layer7": ["NFO-KO", "SAS-DEAD", "CHOOPA-CRUSH", "100UP-BYPASS", "HYDRA-FLASH", "WSD", "SmnP", "sSdP", "5M", "GtaFuck", "COD-deAd", "NFO-UDP", "CF_KILL", "NFO-TCP", "OVH-UDP", "OVH-TCP", "L7200k", "L7800k"],
+    	"layer7": ["NFO-KO", "SAS-DEAD", "CHOOPA-CRUSH", "100UP-BYPASS", "HYDRA-FLASH", "WSD", "SmnP", "sSdP", "5M", "GtaFuck", "COD-deAd", "NFO-UDP", "CF_KILL", "NFO-TCP", "OVH-UDP", "OVH-TCP", "L7200k", "L7800k", "DEDI-RAPEV2", "DEDI-RAPE"],
     	"layer4": ["HOME", "CLDAP", "TCP", "DNS", "STD", "TALK-SHIT", "XOX", "SYN-PAPI", "RIPPED-NIGGA", "BLAZING", "CHARGEN", "GAME-KILLER", "FN-LAG", "FN-FREEZE", "RAINBOW-DROP", "RAINBOW-FREEZE", "HOTSPOT", "NORD-DEAD", "VPN-FUCK", "HTTP-SMACK", "HTTPS-OFF"]
     },
     "servers": {
